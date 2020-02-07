@@ -1,0 +1,84 @@
+body {
+    font-family: Arial , sans-serif;
+    }
+.box-container {
+        width: 1024px;
+        margin: 0 auto;
+    }
+header {
+    border-radius: 100px;
+    display: flex;
+    background-color:lightgray;
+    margin: 0px;
+    padding-bottom: 0px;
+    }
+img {
+    width: 500px;
+    height: 400px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+h1 {
+    padding-left: 60px;
+}
+.username {
+    margin: 0px;
+    font-size: 20px;
+}
+.user-info {
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.link-info {
+    color: lightslategray;
+    font-style: normal;
+    font-size: 25px;
+}
+main {
+    border-radius: 100px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin: 5px;
+    background-color:lightseagreen;
+}
+h2 {
+    font-size: 30px;
+    padding-left: 30px;
+}
+p {
+    font-size: 20px;
+    font-style: oblique;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-indent: 15px;
+}
+span {
+    font-weight: bold;
+}
+.summary {
+    margin: 0;
+    border-bottom:1px solid #000;
+    border-width:100%;
+}
+footer {
+    border-radius: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 5px;
+    background-color: gray;
+}
+.rsschool {
+    text-align: center;
+    font-weight: bolder;
+}
+.course {
+    text-align: center;
+    font-weight: bolder;
+}
+.from {
+    text-align: center;
+}
